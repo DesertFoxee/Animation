@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding=""?>
+
+<textureatlas>
+    <texture name ="pinkpet" path="assets/images/pinkpet.png" createmask="false" spritesheet="assets/spritesheets/pinkpet.xml"></texture>
+
+    <texture name ="ground" path="assets/images/ground.png" createmask="false"></texture>
+</textureatlas>

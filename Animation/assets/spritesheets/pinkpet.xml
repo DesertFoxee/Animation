@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding=""?>
+<spritesheet>
+
+    <animation name= "basic">
+        <subsprite x = "3" y ="0" width="20"  height ="18" speed="1"></subsprite>
+        <subsprite x = "27" y ="0" width="20"  height ="18" speed="7"></subsprite>
+    </animation>
+    <animation name= "walkright">
+        <subsprite x = "3" y ="49" width="21"  height ="19" speed="10"></subsprite>
+        <subsprite x = "28" y ="50" width="20"  height ="17" speed="10"></subsprite>
+        <subsprite x = "52" y ="52" width="19"  height ="16" speed="10"></subsprite>
+        <subsprite x = "75" y ="51" width="17"  height ="17" speed="10"></subsprite>
+        <subsprite x = "96" y ="50" width="17"  height ="18" speed="10"></subsprite>
+        <subsprite x = "117" y ="49" width="21"  height ="19" speed="10"></subsprite>
+        <subsprite x = "142" y ="50" width="20"  height ="18" speed="10"></subsprite>
+        <subsprite x = "166" y ="52" width="19"  height ="16" speed="10"></subsprite>
+        <subsprite x = "189" y ="51" width="19"  height ="17" speed="10"></subsprite>
+        <subsprite x = "212" y ="50" width="20"  height ="18" speed="10"></subsprite>
+    </animation>
+    <animation name= "jump">
+        <subsprite x = "4" y ="126" width="20"  height ="20" speed="1"></subsprite>
+        <subsprite x = "26" y ="127" width="21"  height ="19" speed="1"></subsprite>
+        <subsprite x = "49" y ="128" width="20"  height ="18" speed="1"></subsprite>
+        <subsprite x = "73" y ="127" width="21"  height ="19" speed="1"></subsprite>
+        <subsprite x = "98" y ="126" width="20"  height ="20" speed="1"></subsprite>
+        <subsprite x = "122" y ="129" width="21"  height ="17" speed="1"></subsprite>
+        <subsprite x = "147" y ="128" width="22"  height ="18" speed="1"></subsprite>
+        <subsprite x = "173" y ="127" width="21"  height ="19" speed="1"></subsprite>
+        <subsprite x = "198" y ="127" width="20"  height ="19" speed="1"></subsprite>
+        <subsprite x = "225" y ="125" width="20"  height ="21" speed="1"></subsprite>
+    </animation>
+</spritesheet>

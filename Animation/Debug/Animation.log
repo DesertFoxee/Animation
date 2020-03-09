@@ -1,0 +1,26 @@
+﻿  Pinkpet.cpp
+F:\SFML\Animation\Animation\Config.h(18,36): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\SFML\Animation\Animation\Pinkpet.h(9,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\SFML\Animation\Animation\Pinkpet.h(112,1): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  main.cpp
+F:\SFML\Animation\Animation\Config.h(18,36): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+F:\SFML\Animation\Animation\Pinkpet.h(9,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\SFML\Animation\Animation\Pinkpet.h(112,1): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Animation.vcxproj -> F:\SFML\Animation\Debug\Animation.exe
